@@ -1,7 +1,7 @@
 {
   "name": "uptime-status",
   "version": "1.0.0",
-  "private": false,
+  "private": true,
   "author": "黎洛极客",
   "url": "https://www.daib.cn",
   "email": "2747423867@qq.com",
